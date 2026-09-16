@@ -1,7 +1,9 @@
 
 
 AI HR Recruitment Assistant
+
 Overview
+
 AI-powered CLI application for assisting HR teams in resume screening and candidate evaluation.
 
 Features
