@@ -1,0 +1,25 @@
+AI HR Recruitment Knowledge Base
+
+Python Developer:
+Required skills: Python, SQL, Git, REST API, Machine Learning.
+Important qualities: Problem solving, debugging and programming knowledge.
+
+Data Analyst:
+Required skills: Python, SQL, Excel, Power BI, Statistics.
+Important qualities: Analytical thinking, data visualization and communication.
+
+Web Developer:
+Required skills: HTML, CSS, JavaScript, React.
+Important qualities: UI development, debugging and responsive design.
+
+Software Engineer:
+Required skills: Python, Java, SQL, Git, Data Structures, Algorithms.
+Important qualities: Problem solving, coding and teamwork.
+
+Recruitment Guidelines:
+Candidates should be evaluated based on required skills,
+relevant experience, projects and job requirements.
+
+A candidate with 80% or higher skill match can be shortlisted.
+A candidate with 60% to 79% match should be reviewed further.
+A candidate below 60% may require additional training.
